@@ -21,6 +21,15 @@ Route::get('/dashboard', function() {
     return view('dashboard.dashboard');
 });
 
-Route::get('/product/create', function() {
+Route::get('/product/add', function() {
     return view('product.create');
 });
+
+Route::get('/payment/transactions', function () {
+    return view('payment.index');
+});
+
+Route::get('/payment/transaction/new', function() {
+    return view('payment.create');
+});
+

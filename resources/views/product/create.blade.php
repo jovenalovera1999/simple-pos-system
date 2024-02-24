@@ -9,6 +9,7 @@
             <div class="card-body">
                 <h3 class="card-title">ADD PRODUCT</h3>
                 <form action="#" method="post">
+                    @csrf
                     <div class="row">
                         <div class="col-sm-3">
                             <div class="mb-3">
