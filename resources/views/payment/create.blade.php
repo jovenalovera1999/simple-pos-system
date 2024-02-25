@@ -22,7 +22,7 @@
                         <div class="table-responsive">
                             <table class="table table-hover">
                                 <thead>
-                                    <th>CODE</th>
+                                    <th>TRANSACTION NO.</th>
                                     <th>NAME</th>
                                     <th>PRICE</th>
                                     <th>QUANTITY</th>
@@ -36,7 +36,7 @@
                         <div class="table-responsive">
                             <table class="table table-hover">
                                 <thead>
-                                    <th>CODE</th>
+                                    <th>TRANSACTION NO.</th>
                                     <th>NAME</th>
                                     <th>PRICE</th>
                                     <th>QUANTITY</th>

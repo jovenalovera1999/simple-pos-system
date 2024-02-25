@@ -237,6 +237,10 @@ section {
   box-shadow: 0 0 0 0.3rem rgba(32, 85, 232, 0.17);
 }
 
+input[type="text"] {
+  text-transform: uppercase;
+}
+
 input[type="text"]:disabled {
   background-color: white;
 }

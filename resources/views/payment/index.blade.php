@@ -25,14 +25,17 @@
                     <div class="table-responsive">
                         <table class="table table-hover">
                             <thead>
-                                <th>CODE</th>
-                                <th>NAME</th>
-                                <th>PRICE</th>
-                                <th>QUANTITY</th>
-                                <th>EXPIRATION DATE</th>
-                                <th>SUPPLIER</th>
+                                <th>TRANSACTION NO.</th>
+                                <th>CUSTOMER NAME</th>
+                                <th>PAYMENT METHOD</th>
+                                <th>TRANSACTION NO.</th>
+                                <th>TOTAL AMOUNT</th>
+                                <th>DISCOUNT</th>
+                                <th>BALANCE</th>
+                                <th>CHANGE</th>
                                 <th>DATE CREATED</th>
                                 <th>DATE UPDATED</th>
+                                <th>ACTION</th>
                             </thead>
                         </table>
                     </div>
