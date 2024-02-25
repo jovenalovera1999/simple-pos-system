@@ -2,6 +2,7 @@
 
 @section('content')
 
+<title>ADMIN DASHBOARD</title>
 @include('include.nav')
 <main id="main">
     <div class="container">

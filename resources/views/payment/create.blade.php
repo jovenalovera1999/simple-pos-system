@@ -2,12 +2,13 @@
 
 @section('content')
 
+<title>ADD PAYMENT TRANSACTION | SIMPLE POS SYSTEM</title>
 @include('include.nav')
 <main id="main">
     <div class="container">
         <div class="card mt-3">
             <div class="card-body">
-                <h5 class="card-title">PAYMENT TRANSACTION</h5>
+                <h5 class="card-title">ADD PAYMENT TRANSACTION</h5>
                 <div class="row">
                     <div class="col-sm-5">
                         <h6>PRODUCTS</h6>

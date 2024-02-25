@@ -17,7 +17,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/dashboard', function() {
+Route::get('/admin/dashboard', function() {
     return view('dashboard.dashboard');
 });
 
@@ -27,6 +27,10 @@ Route::get('/products', function () {
 
 Route::get('/product/add', function() {
     return view('product.create');
+});
+
+Route::get('/product/edit', function() {
+    return view('product.edit');
 });
 
 Route::get('/payment/transactions', function () {
@@ -41,7 +45,23 @@ Route::get('/payment/methods', function() {
     return view('payment_method.index');
 });
 
-Route::get('/payment/method/add', function() {
-    return view('payment_method.create');
+Route::get('/payment/method/edit', function() {
+    return view('payment_method.edit');
+});
+
+Route::get('/discounts', function() {
+    return view('discount.index');
+});
+
+Route::get('/discount/edit', function() {
+    return view('discount.edit');
+});
+
+Route::get('/employees', function() {
+    return view('user.index');
+});
+
+Route::get('/employee/add', function() {
+    return view('user.create');
 });
 

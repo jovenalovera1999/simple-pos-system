@@ -16,7 +16,7 @@
                 <li><a href="#"><span>PAYMENT TRANSACTIONS</span></a></li>
                 <li><a href="#"><span>PAYMENT METHODS</span></a></li>
                 <li><a href="#"><span>DISCOUNTS</span></a></li>
-                <li><a href="#"><span>USERS</span></a></li>
+                <li><a href="#"><span>EMPLOYEES</span></a></li>
                 <li><a href="#"><span>PROFILE</span></a></li>
                 <li><a href="#"><span>LOGOUT</span></a></li>
             </ul>
